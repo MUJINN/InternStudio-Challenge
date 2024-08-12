@@ -2,7 +2,6 @@
 InternLM闯关地图专用库
 # 书生大模型实战营（第三期闯关大挑战）
 
-![image](https://github.com/user-attachments/assets/93ff2412-777c-4619-812b-0134eb327cf3)
 
 
 闯关手册：https://aicarrier.feishu.cn/wiki/XBO6wpQcSibO1okrChhcBkQjnsf
