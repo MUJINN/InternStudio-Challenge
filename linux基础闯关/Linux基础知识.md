@@ -35,7 +35,7 @@ ssh -p 43756 root@ssh.intern-ai.org.cn -o StrictHostKeyChecking=no -o UserKnownH
 
 ![image-20240806205014045](image/image-20240806205014045.png)
 
-![image-20240806204723005](image\image-20240806204723005.png)
+![image-20240806204723005](image/image-20240806204723005.png)
 
 ![image-20240806204855788](image/image-20240806204855788.png)
 
