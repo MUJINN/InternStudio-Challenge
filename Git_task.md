@@ -83,11 +83,11 @@ Git 基础：[Git 基础知识](https://aicarrier.feishu.cn/wiki/YAXRwLZxPi8Hy6k
 
 **1.安装Git**
 
-![image-20240815193050931](image/\image-20240815193050931.png)
+![image-20240815193050931](image/image-20240815193050931.png)
 
 
 
-**2.fork Tutorial项目**![image-20240814195347986](image/\image-20240814195347986.png)
+**2.fork Tutorial项目**![image-20240814195347986](image/image-20240814195347986.png)
 
 ```shell
 git clone https://github.com/MrCatAI/Tutorial.git # 修改为自己frok的仓库
