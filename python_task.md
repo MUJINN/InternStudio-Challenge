@@ -58,7 +58,7 @@ def wordcount(text):
 
 连接到开发机
 
-![image-20240814102945672](image/\image-20240814102945672.png)
+![image-20240814102945672](image/image-20240814102945672.png)
 
 设断点
 
@@ -66,7 +66,7 @@ def wordcount(text):
 
 启用调试
 
-![image-20240814104048806](image/\image-20240814104048806.png)
+![image-20240814104048806](image/image-20240814104048806.png)
 
 Debug
 
