@@ -87,7 +87,8 @@ Git 基础：[Git 基础知识](https://aicarrier.feishu.cn/wiki/YAXRwLZxPi8Hy6k
 
 
 
-**2.fork Tutorial项目**![image-20240814195347986](image/image-20240814195347986.png)
+**2.fork Tutorial项目**
+![image-20240814195347986](image/image-20240814195347986.png)
 
 ```shell
 git clone https://github.com/MrCatAI/Tutorial.git # 修改为自己frok的仓库
@@ -105,7 +106,8 @@ clone 项目到本地
 
 ![image-20240815193516599](image/image-20240815193516599.png)
 
-创建md文件![image-20240815195014558](image/image-20240815195014558.png)
+创建md文件
+![image-20240815195014558](image/image-20240815195014558.png)
 
 提交（注意创建提交令牌）
 
